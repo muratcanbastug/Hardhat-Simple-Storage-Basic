@@ -1,0 +1,30 @@
+{
+  "name": "hardhat-simple-storage",
+  "version": "1.0.0",
+  "description": "\"# Hardhat-Simple-Storage-Basic\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muratcanbastug/Hardhat-Simple-Storage-Basic.git"
+  },
+  "author": "Murat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muratcanbastug/Hardhat-Simple-Storage-Basic/issues"
+  },
+  "homepage": "https://github.com/muratcanbastug/Hardhat-Simple-Storage-Basic#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "hardhat": "^2.10.1",
+    "hardhat-gas-reporter": "^1.0.8",
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.24",
+    "solidity-coverage": "^0.7.21"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
